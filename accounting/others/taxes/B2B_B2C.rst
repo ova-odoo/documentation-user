@@ -32,9 +32,9 @@ So, depending on how you register your prices on the product form, you
 will have different results for the price including taxes and the price
 excluding taxes:
 
--  Taxes Excluded: **8.26€ & 10.00€**
+-  Taxes Included: **8.26€ & 10.00€**
 
--  Taxes Included: **8.26€ & 9.99€**
+-  Taxes Excluded: **8.26€ & 9.99€**
 
 .. note::
   If you buy 100 pieces at 10€ taxes included, it gets even more
